@@ -1,0 +1,9 @@
+header {
+    font-family: 'Lato', sans-serif;
+    height: 10vh;
+}
+
+header nav a {
+    font-size: 16px;
+    font-weight: 400;
+}

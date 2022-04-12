@@ -1,9 +1,10 @@
 import './App.css';
+import Header from './components/Pages/Shared/Header/Header';
 
 function App() {
   return (
     <div className="App">
-      <h2>This is home</h2>
+      <Header></Header>
     </div>
   );
 }
